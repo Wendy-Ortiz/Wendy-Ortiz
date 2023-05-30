@@ -9,9 +9,9 @@
 </div>
 <div align="center">
   <h1>ABOUT ME</h1>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Ffree-image%2Fsingle-line-border-designs-png-PNG-free-PNG-Images_109628&psig=AOvVaw3BxGoWGeRR8-C74Ugxydpv&ust=1685506643698000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODn09eXnP8CFQAAAAAdAAAAABAE" width="600" height="300"/>
 </div>
+---
 I am a computer science and informatics student at the University of Costa Rica, specializing in software engineering. Currently, I am in my final semester.
 - I’m currently working on [Kane-Admin](https://github.com/gatitolabs/kane-admin-2023/branches)
-- I’m currently learning **more about Web Development**
+- I’m currently learning **more about web development**
 ---
