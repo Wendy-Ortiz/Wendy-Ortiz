@@ -9,9 +9,7 @@
 </div>
 <div align="center">
   <h1>ABOUT ME</h1>
+    I am a computer science and informatics student at the University of Costa Rica, specializing in software engineering. Currently, I am in my final semester.
+    - I’m currently working on [Kane-Admin](https://github.com/gatitolabs/kane-admin-2023/branches)
+    - I’m currently learning **more about web development**
 </div>
----
-I am a computer science and informatics student at the University of Costa Rica, specializing in software engineering. Currently, I am in my final semester.
-- I’m currently working on [Kane-Admin](https://github.com/gatitolabs/kane-admin-2023/branches)
-- I’m currently learning **more about web development**
----
